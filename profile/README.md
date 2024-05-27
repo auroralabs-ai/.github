@@ -1,0 +1,3 @@
+## Hi there 👋
+
+Aurora Labs is building a future where anyone can be an expert and make reliable, high-quality software using a proprietary Large Code Language Model the premiss for the first AI Advisor Engineer with advanced prompting capabilities. Designed with the insights and needs of SW developers and SW embedded systems engineers in mind, LOCI enhances software reliability, quality, and predictive software maintenance across a wide range of platforms, including cloud, mobile applications, HPC, and embedded systems, supporting diverse hardware such as ARM, ST Microelectronics, NXP, NVIDIA, RENESAS, QUALCOMM, SAMSUNG, and INFINEON.
